@@ -51,3 +51,15 @@ This project processes salary data for employees and provides functionalities to
 2. Install required Python packages:
 ```bash
    pip install pandas
+### R
+Install R from CRAN.
+No additional packages are required for the R script.
+
+### Usage
+##Python Functions
+1. Import the Salary Data: Ensure you have a CSV file containing the salary data. You can load this data using pandas in Python.
+```bash
+  import pandas as pd
+  salary_data = pd.read_csv("path_to_salary_data.csv")
+
+
